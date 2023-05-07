@@ -1,7 +1,7 @@
 #  Authorship Attribution - LSTM networks
 
 <p align="center">
-<img src="supplementary/0.png width=30%>
+<img src="supplementary/0.png" width=30%>
 </p>
 
 In this task, we used various algorithms for text classification, to perform an authorship attribution on Donald Trump’s tweets. 
@@ -13,5 +13,5 @@ Politicians, as well as other public figures, usually have assistants and staffe
 In this task we used a number of supervised machine learning classifiers in order to validate the hypothesis about Trump tweeting habits.
 
 <p align="center">
-<img src="supplementary/1.png width=30%>
+<img src="supplementary/1.png" width=30%>
 </p>
